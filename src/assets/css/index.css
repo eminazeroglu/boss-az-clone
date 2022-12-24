@@ -1,0 +1,5 @@
+@import "./tailwind.css";
+
+.hello {
+    @apply bg-red-500
+}
